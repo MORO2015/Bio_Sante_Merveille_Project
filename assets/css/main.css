@@ -535,6 +535,9 @@ nav.main-menu > ul li:last-child {
   float: left;
   max-width: 150px;
 }
+.site-logo a img {
+  width: 75px;
+}
 
 ul.sub-menu li:last-child {
   float: none !important;
